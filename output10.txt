@@ -1,0 +1,1 @@
+the binary form of 34 is 0b100010
